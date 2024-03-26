@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-this is my another commit
-=======
+
 this is again a  commit
->>>>>>> feature
 
 And here we go with commit#2
